@@ -1,0 +1,94 @@
+Coding is not all about writing lines of code. It is als about how to think and make pieces of code fit together. 
+
+MODULES
+Modules are an important aspect of any robust application's architecture
+Modules keep the units of code for a project both cleanly separated and organised.
+Modules encapsulate some data into privacy and expose other data publicly.
+Lesson 5
+How to ue the module pattern
+More about private and public data, encapsulation and separation of concerns.
+Modules are used to keep pieces of code that are related together inside separate and independent and organised units. 
+there will be variables and functions only inside the module and so no other code can override the code. It is going to be safe. 
+In modules, asides private methods, we will also have public methods that other functions or modules can access and use them. This is called data encapsulation. 
+Data encapsulation allows us to hide the implemtation details of a specific module from the outside scope so we only expose a public interface. This is sometimes called an API
+ AN IIFE is an anonymous function wrapped in parentheses
+
+ Lesson 6 
+ How to set up event listeners for keypress events 
+ How to use event objects
+
+ Keycodes are used for keypresses when we want to specify the key we want an action for. Older browsers dont use keycode they use which. 
+
+ lesson 7
+ Learn to read input from different data types
+
+ Lesson 8 
+ How to create an initialisation function
+
+ lesson 9
+ How to choose function constructors that meet our applications needs
+ How to set up a proper data structure for our budget controller
+
+ lesson 10 
+ How to add conflict in our data structures
+ how and why to pass data from one module to the other
+
+ lesson 11
+ To learn a technique for adding big chunks of HTML into DOM
+
+ How to replace parts of strings
+
+ How to do DOM manipulation using the insertAdjacentHTML method.
+
+ lesson 12
+ How to clear HTML fields
+ how to use querySelectorAll
+ how to convert a list to an array
+ A better way to loop over an array then for loops: foreach. 
+
+
+ lesson 13
+ How to convert field inputs to numbers and 
+ how to prevent false inputs.
+ 
+
+ It is important to write a testing method to test and expose some internal data and see that it conforms to the standard you are looking for. 
+
+
+ Lesson 14
+ How and why to create simple reusable functions with only one purpose. 
+ How to sum all the elements of an array using the forEach method. 
+
+ Lesson 15 
+ Practice DOM manipulation in the user interface by updating the budget and total values. 
+
+ Lesson 17
+ Event Delegation is used when we have an element with lots of child elements that we are interested in. 
+ and when we want an event handler that is attached to an element not yet in the DOM when our page is loaded. 
+
+ Lesson 18
+ How to use event delegation in Practice
+How to use ids in html to connect the UI with the data model 
+How to use the parentNode property for DOM traversing. 
+
+Lesson 19
+Methods to loop over an array: map (We already did forEach)
+How to remove elements from an array using the splice method.
+
+Lesson 20 
+how to remove an element with more DOM manipulation 
+
+
+Lesson 23
+how to make our budget controller interact with the Expense prototype. 
+
+lesson 24 
+How to create foreach functions for nodelists instead of arrays. 
+
+lesson 25 
+How to use different string methods to manipulate strings
+
+toFixed puts decimal places as we would like
+
+Lesson 26 
+We will display the date using the date constructor
